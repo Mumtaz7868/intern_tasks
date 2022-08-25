@@ -1,0 +1,46 @@
+/* * {
+  box-sizing: border-box;
+} */
+.row {
+  display: flex;
+  padding: 150px;
+  padding-top: 70px;
+  column-gap: 20px;
+}
+.column {
+  flex: 50%;
+  padding: 10px;
+  height: 600px;
+}
+.firstlogo {
+  border-radius: 50%;
+}
+div.column a {
+  font-size: 20px;
+  padding-inline: 20px;
+  text-decoration: none;
+
+  margin-top: 0;
+  margin-bottom: 0;
+}
+div.column p {
+  padding-inline: 90px;
+  display: block;
+  font-family: sans-serif;
+  color: #3b3b3b;
+  font-size: 16px;
+}
+.secondlogo {
+  padding-top: 15px;
+}
+a {
+  color: blue;
+}
+button {
+  float: right;
+  color: blue;
+  text-align: center;
+  padding: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+}

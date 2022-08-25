@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+
+  background-color: white;
+}
+.header {
+  text-align: center;
+  background-image: linear-gradient(rgb(247, 5, 5), rgb(237, 190, 2));
+  height: 150px;
+}
+.header p {
+  color: wheat;
+  padding-top: 100px;
+  font-size: large;
+  font-weight: 600;
+}
+.nextpage {
+  border-top-left-radius: 20px;
+  /* background-color: blue; */
+  padding: 20px;
+  margin: 20px;
+  overflow: hidden;
+}
+.nextpage i {
+  color: darkblue;
+}
+.Month {
+  margin-top: 30px;
+  color: darkorange;
+}
+.Month span {
+  /* padding-left: 10px; */
+  padding-right: 25px;
+}
+.calender {
+  margin-top: 20px;
+  color: darkorange;
+}
+.calender span {
+  padding-right: 33px;
+}
+.orange {
+  background-color: lightsalmon;
+  border-radius: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.date {
+  background: seashell;
+  padding: 20px;
+  height: 400px;
+}

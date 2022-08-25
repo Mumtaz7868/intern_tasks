@@ -1,0 +1,144 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  padding-left: 70px;
+  background-color: silver;
+}
+.row {
+  display: flex;
+
+  /* padding: 20px; */
+}
+.col1 {
+  width: 400px;
+  height: 380px;
+  /* background-color: seashell; */
+  margin-top: 50px;
+  padding-top: 10px;
+}
+.col1 a {
+  text-transform: uppercase;
+  color: black;
+  font-size: 80px;
+  font-weight: bold;
+}
+.col1 p {
+  margin-top: 70px;
+  font-weight: 1000;
+  font-size: 20px;
+}
+.col1 button {
+  margin-top: 70px;
+  background-color: blue;
+  color: #ffffff;
+  border-style: none;
+  height: 39px;
+  width: 125px;
+  border-radius: 5px;
+  font-size: large;
+}
+.col2 {
+  margin-top: 90px;
+  margin-left: 150px;
+  width: 200px;
+  height: 250px;
+  border-right: 2px solid;
+  border-color: gray;
+  padding: 10px;
+  padding-top: 0;
+}
+.col2 img {
+  border-radius: 5px;
+}
+.col2 button {
+  border: 2px solid;
+  border-color: blue;
+  border-radius: 5px;
+  width: 100px;
+  height: 25px;
+  margin-top: 15px;
+  /* margin-left: 5px; */
+  font-size: large;
+  color: black;
+}
+.col2 h3 {
+  line-height: 30px;
+}
+.col2 p {
+  line-height: 20px;
+}
+
+.col3 {
+  margin-top: 90px;
+  width: 200px;
+  padding: 10px;
+  border-right: 2px solid;
+  border-color: gray;
+  padding-top: 0;
+  height: 250px;
+}
+.col3 img {
+  border-radius: 5px;
+}
+.col3 button {
+  border: 2px solid;
+  border-color: blue;
+  border-radius: 5px;
+  width: 100px;
+  height: 25px;
+  margin-top: 10px;
+  font-size: large;
+  color: black;
+  /* margin-left: 5px; */
+}
+.col3 h3 {
+  line-height: 30px;
+}
+.col3 p {
+  line-height: 20px;
+}
+.col4 {
+  height: 250px;
+  margin-top: 90px;
+  width: 200px;
+  padding: 10px;
+  padding-top: 0;
+}
+.col4 img {
+  border-radius: 5px;
+}
+.col4 button {
+  border: 2px solid;
+  border-color: blue;
+  border-radius: 5px;
+  width: 100px;
+  height: 25px;
+  margin-top: 15px;
+  font-size: large;
+  /* margin-left: 5px; */
+  color: black;
+}
+.col4 h3 {
+  line-height: 30px;
+}
+.col4 p {
+  line-height: 20px;
+}
+.fotter {
+  display: flex;
+  margin-left: 200px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.fotter h1 {
+  text-align: center;
+  padding-left: 100;
+  color: darkblue;
+}
+.fotter p {
+  text-align: center;
+  padding-left: 100;
+}

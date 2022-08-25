@@ -1,0 +1,76 @@
+ul {
+  list-style-type: none;
+}
+nav {
+  overflow: hidden;
+  background-color: blue;
+}
+li a {
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+li {
+  display: inline;
+}
+section {
+  float: right;
+}
+li a.border {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background: white;
+  color: black;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+}
+/* section li a#Register {
+  background: blue;
+  border-radius: 5px;
+  border-color: white;
+  text-align: center;
+  /* text-decoration: none; 
+}*/
+.input {
+  padding-top: 30px;
+  padding-left: 200px;
+}
+div.input button {
+  float: right;
+  padding-top: 12px;
+  text-align: center;
+  margin-right: 270px;
+  background-color: blue;
+}
+div.heading h1 {
+  font-size: 70px;
+}
+div.Links {
+  background-color: aliceblue;
+  text-align: center;
+  font-size: 20px;
+}
+div.Links a {
+  padding-left: 10px;
+  padding-right: 10px;
+  color: blue;
+  text-decoration: none;
+}
+div.Links button {
+  padding-top: 15px;
+  color: blue;
+  margin-bottom: 50px;
+}
+div.josLinks a {
+  display: block;
+  text-align: center;
+  background-color: whitesmoke;
+  text-decoration: none;
+  color: blue;
+}
+span {
+  color: black;
+}

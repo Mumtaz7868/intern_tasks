@@ -1,0 +1,29 @@
+.cardwhite {
+  height: 250px;
+  width: 230px;
+  margin: 20px;
+  text-align: center;
+  border-radius: 22px;
+  box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.08);
+}
+.cardwhite i {
+  margin-top: 30px;
+  background-color: #f60c87;
+  color: #ffffff;
+  border-radius: 50%;
+  font-size: 30px;
+  padding: 20px;
+}
+.cardwhite__text {
+  padding: 20px;
+  font-size: 22px;
+}
+.cardwhite__text h3 {
+  font-family: "Times New Roman", Times, serif;
+  line-height: 0%;
+  color: #f60c87;
+}
+.cardwhite__text p {
+  color: #797d7f;
+  font-size: large;
+}

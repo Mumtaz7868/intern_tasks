@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+
+  background-color: white;
+}
+.header {
+  text-align: center;
+  background-image: linear-gradient(rgb(182, 49, 49), rgb(237, 190, 2));
+  height: 150px;
+}
+.header p {
+  color: wheat;
+  padding-top: 100px;
+  font-size: large;
+  font-weight: 600;
+}
+.nextpage {
+  border-top-left-radius: 20px;
+  /* background-color: blue; */
+  padding: 20px;
+  margin: 20px;
+  overflow: hidden;
+}
+.nextpage i {
+  color: darkblue;
+}
+.Month {
+  margin-top: 30px;
+  color: darkorange;
+}
+.Month span {
+  /* padding-left: 10px; */
+  padding-right: 25px;
+}
+.calender {
+  margin-top: 20px;
+  color: darkorange;
+}
+.calender span {
+  padding-right: 33px;
+}
+.orange {
+  background-color: lightsalmon;
+  border-radius: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.date {
+  background: seashell;
+  padding: 20px;
+  height: 400px;
+}
+.div {
+  margin-top: 40px;
+  margin-left: 70px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: white;
+  width: 300px;
+  height: 310px;
+}
+.floatright {
+  color: darkblue;
+  margin-top: 30px;
+  float: right;
+  line-height: 3px;
+}
+.floatright1 {
+  background-color: darkblue;
+  float: right;
+  color: white;
+  line-height: 3px;
+  /* margin-left: 200px; */
+  margin-top: 25px;
+}

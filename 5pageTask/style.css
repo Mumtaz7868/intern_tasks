@@ -1,0 +1,92 @@
+body {
+  background-color: whitesmoke;
+}
+.row {
+  display: flex;
+  /* padding: 30px; */
+  column-gap: 20px;
+}
+.column1 {
+  height: 1000%;
+  width: 300px;
+  background-color: white;
+}
+.column1 i {
+  padding: 25px;
+  font-size: 22px;
+}
+
+.Links a {
+  display: block;
+  color: #0070eb;
+  padding: 5px;
+  padding-top: 10px;
+  text-decoration: none;
+  font-size: 20px;
+}
+.Links i {
+  float: right;
+  padding: 0;
+  padding-right: 10px;
+  padding-top: 10px;
+  color: #a6afb9;
+  font-size: 25px;
+}
+form {
+  margin-top: 30px;
+}
+form select {
+  float: right;
+  width: 300px;
+  height: 50px;
+  border-color: #a6afb9;
+}
+#Employment {
+  padding-left: 20px;
+  font-size: 15px;
+}
+.column2 {
+  width: 1000%;
+  height: 1000%;
+  background-color: white;
+}
+.firstb {
+  padding-left: 10px;
+}
+.firstb p {
+  font-size: 30spx;
+}
+.secondb {
+  padding-left: 10px;
+}
+.secondb i {
+  float: right;
+  padding-right: 40px;
+  color: #a6afb9;
+  font-size: 30px;
+}
+.thirdb {
+  padding-left: 10px;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.thirdb a {
+  text-decoration: none;
+  color: #0070eb;
+  font-size: 25px;
+}
+.thirdb h5 {
+  font-size: 20px;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.thirdb p {
+  color: #a6afb9;
+  font-size: 20px;
+}
+button {
+  border-radius: 30px;
+  height: 35px;
+  background-color: #a6afb9;
+  border-color: #a6afb9;
+}

@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.StatusBar {
+  display: flex;
+  align-items: center;
+  border: 2px solid;
+  height: 44px;
+}
+.StatusBar p {
+  margin-left: 45px;
+  font-size: 25px;
+  font-weight: bold;
+}
+.StatusBar i {
+  margin-right: 10px;
+  color: #000000;
+}
+#signal {
+  margin-left: 270px;
+}

@@ -1,0 +1,29 @@
+body {
+  background-color: blueviolet;
+}
+h1 {
+  color: white;
+}
+section {
+  float: right;
+}
+.img {
+  float: right;
+  padding-top: 30px;
+}
+.img1 {
+  padding-top: 30;
+}
+.contact {
+  color: aliceblue;
+}
+.dot {
+  height: 15px;
+  width: 10px;
+  background-color: white;
+  border-radius: 100%;
+  display: inline-block;
+}
+.lastsection {
+  padding-top: 20px;
+}
