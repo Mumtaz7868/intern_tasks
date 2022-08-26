@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.standardform {
+  padding-top: 5px;
+  color: #797d7f;
+  font-size: 23px;
+}
+.standardform span {
+  padding-left: 20px;
+  color: #12121f;
+  font-size: 23px;
+}
+.standardform p {
+  margin-bottom: 10px;
+}
+.standardform hr {
+  margin-top: 10px;
+}
+.standardform form {
+  margin-top: 20px;
+  margin-left: 30px;
+}
+.standardform select {
+  width: 400px;
+  height: 50px;
+  border: 2px solid #797d7f;
+  font-size: 25px;
+  color: #797d7f;
+  border-radius: 16px;
+}

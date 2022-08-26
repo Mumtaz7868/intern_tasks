@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.btn {
+  border: 2px solid;
+}
+.button {
+  height: 65px;
+  width: 470;
+  background: #ffffff;
+  border-radius: 28px;
+  border: none;
+  font-size: 25;
+  font-weight: bold;
+  box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.08);
+  border-radius: 28.5px;
+}
+.button--second {
+  background: red;
+  color: #ffffff;
+  margin-top: 20px;
+}

@@ -1,0 +1,58 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.taskmessage {
+  padding-left: 40px;
+  padding-bottom: 40px;
+  padding-right: 30px;
+  padding-top: 20px;
+  border-radius: 24px 24px 0px 0px;
+
+  background-color: #ee268f;
+}
+.taskmessage i {
+  float: right;
+  font-size: large;
+}
+.taskmessage img {
+  border-radius: 50%;
+  height: 70px;
+  width: 70px;
+}
+.taskmessage__text {
+  float: right;
+  margin-right: 110px;
+  margin-top: 10px;
+  color: #ffffff;
+  font-size: 30px;
+}
+.taskmessage__text p {
+  font-size: 20;
+  color: #ffde25;
+  font-weight: bold;
+}
+.typemessage {
+  background-color: #ffffff;
+  border-radius: 0px 0px 24px 24px;
+  height: 100px;
+  box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.08);
+}
+.typemessage a {
+  float: right;
+  text-decoration: none;
+  color: #ee268f;
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 30px;
+  margin-right: 30px;
+}
+.typemessage input {
+  height: 35px;
+  width: 240px;
+  border: 0;
+  outline: 0;
+  margin-left: 40px;
+  margin-top: 30px;
+  font-size: 25px;
+}
