@@ -1,0 +1,22 @@
+body {
+	box-sizing: border-box;
+}
+.parent {
+	display: flex;
+}
+.child {
+	padding: 20px;
+	margin: 10px;
+	border: 2px solid;
+}
+@media screen and (max-width: 800px) {
+	.parent {
+		width: 200px;
+		flex-wrap: wrap;
+	}
+}
+@media screen and (max-width: 500px) {
+	.parent {
+		flex-direction: column-reverse;
+	}
+}
